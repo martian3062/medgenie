@@ -1,8 +1,8 @@
-django
+Django
 djangorestframework
 django-cors-headers
-gunicorn
+djangorestframework-simplejwt
 Pillow
 python-dotenv
 requests
-djangorestframework-simplejwt
+gunicorn
