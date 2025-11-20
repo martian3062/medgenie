@@ -5,3 +5,4 @@ gunicorn
 Pillow
 python-dotenv
 requests
+djangorestframework-simplejwt
